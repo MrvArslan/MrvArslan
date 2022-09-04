@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrvArslan
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 📫 How to reach me ... Instagram@hylprstt_
+- 📫 How to reach me ... Instagram@lady_coding
 
 <!---
 MrvArslan/MrvArslan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
